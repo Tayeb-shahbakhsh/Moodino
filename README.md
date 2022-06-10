@@ -16,7 +16,7 @@ with moodino you can track your moods.
 
 ### Progress
 
-%20 
+app is released in Cafe Bazaar
 
 ### want to join and contribute ?
 
